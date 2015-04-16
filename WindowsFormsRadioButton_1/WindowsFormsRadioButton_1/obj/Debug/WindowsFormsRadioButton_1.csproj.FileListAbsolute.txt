@@ -1,0 +1,9 @@
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormsRadioButton_1\WindowsFormsRadioButton_1\bin\Debug\WindowsFormsRadioButton_1.exe.config
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormsRadioButton_1\WindowsFormsRadioButton_1\bin\Debug\WindowsFormsRadioButton_1.exe
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormsRadioButton_1\WindowsFormsRadioButton_1\bin\Debug\WindowsFormsRadioButton_1.pdb
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormsRadioButton_1\WindowsFormsRadioButton_1\obj\Debug\WindowsFormsRadioButton_1.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormsRadioButton_1\WindowsFormsRadioButton_1\obj\Debug\WindowsFormsRadioButton_1.Form1.resources
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormsRadioButton_1\WindowsFormsRadioButton_1\obj\Debug\WindowsFormsRadioButton_1.Properties.Resources.resources
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormsRadioButton_1\WindowsFormsRadioButton_1\obj\Debug\WindowsFormsRadioButton_1.csproj.GenerateResource.Cache
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormsRadioButton_1\WindowsFormsRadioButton_1\obj\Debug\WindowsFormsRadioButton_1.exe
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormsRadioButton_1\WindowsFormsRadioButton_1\obj\Debug\WindowsFormsRadioButton_1.pdb

@@ -1,0 +1,9 @@
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormTexBox\WindowsFormTexBox\bin\Debug\WindowsFormTexBox.exe.config
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormTexBox\WindowsFormTexBox\bin\Debug\WindowsFormTexBox.exe
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormTexBox\WindowsFormTexBox\bin\Debug\WindowsFormTexBox.pdb
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormTexBox\WindowsFormTexBox\obj\Debug\WindowsFormTexBox.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormTexBox\WindowsFormTexBox\obj\Debug\WindowsFormTexBox.Form1.resources
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormTexBox\WindowsFormTexBox\obj\Debug\WindowsFormTexBox.Properties.Resources.resources
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormTexBox\WindowsFormTexBox\obj\Debug\WindowsFormTexBox.csproj.GenerateResource.Cache
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormTexBox\WindowsFormTexBox\obj\Debug\WindowsFormTexBox.exe
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\WindowsFormTexBox\WindowsFormTexBox\obj\Debug\WindowsFormTexBox.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsRadioButton_1", "WindowsFormsRadioButton_1\WindowsFormsRadioButton_1.csproj", "{8C5032DF-DFEE-4C24-851F-12B7F60B718E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C5032DF-DFEE-4C24-851F-12B7F60B718E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5032DF-DFEE-4C24-851F-12B7F60B718E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5032DF-DFEE-4C24-851F-12B7F60B718E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5032DF-DFEE-4C24-851F-12B7F60B718E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
